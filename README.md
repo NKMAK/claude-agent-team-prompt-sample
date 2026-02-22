@@ -20,6 +20,8 @@ Agent Teams は、複数の専門エージェントが協調して複雑なタ�
 
 詳細は [agent-teams/design-planning/README.md](agent-teams/design-planning/README.md) を参照してください。
 
+課題：https://github.com/NKMAK/claude-agent-team-prompt-sample/issues
+
 ## 使い方
 
 各ディレクトリのREADMEに従って、Agent Teams を活用してください。
