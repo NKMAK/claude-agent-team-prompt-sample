@@ -179,6 +179,8 @@ Claude Code の Agent Teams でソフトウェア設計を自動化する実験�
 
 ---
 
+課題：https://github.com/NKMAK/claude-agent-team-prompt-sample/issues
+
 ## 使い方
 
 ### 前提条件
